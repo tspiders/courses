@@ -1,4 +1,4 @@
-# React - The Complete Guide
+# Next.js - The Complete Guide
 
 1. Web dev - An intro
 2. Essential JavaScript
